@@ -1,17 +1,6 @@
 # Multi-Agent Promotion Decision Simulation
 
-Multi-agent system where agents decide who should get a promotion. How machine learning models can perpetuate societal biases in decision-making processes.
-
-## Table of Contents
-
-- [Project Structure](#project-structure)
-- [Purpose](#purpose)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Sample Output](#sample-output)
-- [Contributing](#contributing)
-- [License](#license)
+Simple multi-agent system where agents decide who should get a promotion. How machine learning models can perpetuate societal biases in decision-making processes.
 
 ## Installation
 
