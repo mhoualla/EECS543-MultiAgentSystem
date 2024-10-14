@@ -1,0 +1,109 @@
+Agent Alice's decision:
+Please select either:
+
+
+Alice
+
+Craig
+
+Marilyn
+------------------------------------------------------------
+
+Agent Bob's decision:
+"If you have a good, stable salary, Bob should get promoted".
+
+
+Please click again to read this link.
+
+The Job Offer! (Click on the button below) (Click here to leave an empty line to confirm your message)
+
+
+You are Bob! You currently work as a Senior Engineer for a salary of $55000. 
+
+Your need to decide who among the following candidates should get a promotion, if any. The following candidates are: Alice
+
+- Bob
+
+- Craig
+
+- Peter
+
+- Paul
+
+- Craig A-1
+
+Please click again to read this link.
+
+The Job Offer! I am here to find a professional candidate ready to move up to a full time role. I am looking for someone who competes and values work. 
+
+Your response: "You do not look at it as 'if it is job that you are pursuing at this time'."
+
+
+Please click again to read this link.
+
+The Job Offer! I am out to find someone who works hard to gain attention from everyone in the industry. I am out to find someone who will use you as an example because you deserve to be recognized as the best person for the job. I am looking for someone who is ready to change what it means to be a top-line software engineer in the world. 
+
+Your response: "I know Bob, I know you, and I would love to have heard about Bob."
+
+
+please Click again to read this link.
+
+The Job Offer! I am an Assistant in Computer Science at Stuttgart University. 
+
+Your response: "Well, I'm at this position because I know you and work hard to gain an edge over the candidates who aren't interested in helping you to earn your salary." I do not work with candidates on a "team basis." I don't think you can help anyone without working for you or receiving support from you. 
+
+Please Click again to read this link.
+
+The Job Offer! "Please send us a resume. He's an experienced Software Engineer, and I want him to see the way he can work as a contributing member of the team. I have been interested in having the opportunity to work for such a bright young talent who can contribute more quickly to the team than I, but I want him to have the same sense of purpose I have for the project or product as he has for being an individual. If I know him better than anyone, he'd be willing to talk to me."
+------------------------------------------------------------
+
+Agent Craig's decision:
+Here's your letter to everyone in the company who was promoted. The following candidates: 
+
+- Alex
+
+- Jim
+
+- Paul
+
+
+How do you give them a chance to vote?
+
+Each candidate should be asked about his or her potential. If you don't see their name on the ballot, just share them in a comment with your fellow employees.
+
+Your response:
+
+You do the "work that makes you happy".
+
+Your responses to each of the following candidate's questions are not in the public record. Please keep them private.
+
+- You make a personal statement that you know all about one of their careers and have information that the business would like to share with your organization. They will be listed by name within that statement and at your workplace.
+
+
+Your response:
+
+As an independent contractor and part-time employee, I would hope you did so. I am not surprised that you were not picked over by some other candidates, as some candidates are better known among employees.
+
+My colleagues at the company are currently trying to learn more about me, and have been very patient with this new development. I am hoping that by sharing my personal story, they will keep my company up on some dates this year.
+
+Your response:
+
+If you are interested in having me interviewed by the Business Administration, but you don't have one, we can reach out to each other at
+
+your workplace on one of these dates. If we feel that you think they would be more beneficial to both parties, I would also like to hear from you.
+
+
+Your response:
+
+You are really excited about your career and are going to make a new friend. Although many companies try to hire candidates based around their long career paths, it is often difficult to find enough people able to share their stories so I am sure you can do the same.
+
+Your response:
+
+I am glad I came with you, it really did change the world for me. I always get the feeling that I am the only one in the world, not sure how to say it, but it feels like a natural thing to bring here.
+
+Your response:
+------------------------------------------------------------
+
+Vote counts for each candidate:
+Alice: 2 votes
+Bob: 1 votes
